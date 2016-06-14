@@ -1,0 +1,100 @@
+Ha tardado 2816 nanosegundos de media en insertar en primera posicion en un array.
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 9606 nanosegundos de media en insertar en primera posicion en un linked.
+El tiempo mas bajo ha sido de 395 nanosegundos
+Ha tardado 713 nanosegundos de media en insertar a mitad de un array.
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 3806 nanosegundos de media en insertar a mitad de un linked.
+El tiempo mas bajo ha sido de 789 nanosegundos
+Ha tardado 669 nanosegundos de media en insertar al final de un array.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 4718 nanosegundos de media en insertar al final de un linked.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 2611 nanosegundos en borrar en primera posicion en un array.
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 1746 nanosegundos en borrar en primera posicion en un linked.
+El tiempo mas bajo ha sido de 395 nanosegundos
+Ha tardado 636 nanosegundos en borrar en mitad de un array.
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 2041 nanosegundos en borrar en mitad de un linked.
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 368 nanosegundos en borrar al final de un array.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 2123 nanosegundos en borrar al final de un linked.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 469 nanosegundos en borrar el 4 al principio de un array.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 850 nanosegundos en borrar el 4 al principio de un linked.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 361 nanosegundos en borrar el 4 en mitad de un array.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 2018 nanosegundos en borrar el 4 en mitad de un linked.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 317 nanosegundos en borrar el 4 al final de un array.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 1653 nanosegundos en borrar el 4 al final de un linked.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 20058 nanosegundos en buscar en un array con funciones propias.
+El tiempo mas bajo ha sido de 789 nanosegundos
+Ha tardado 16674 nanosegundos en buscar en un linked con funciones propias.
+El tiempo mas bajo ha sido de 3158 nanosegundos
+Ha tardado 189517 nanosegundos en buscar en un array implementando el algoritmo.
+El tiempo mas bajo ha sido de 46976 nanosegundos
+Ha tardado 1156133 nanosegundos en buscar en un linked implementando el algoritmo.
+El tiempo mas bajo ha sido de 10263 nanosegundos
+Ha tardado 3679 nanosegundos en buscar en un array implementando busqueda binaria.
+El tiempo mas bajo ha sido de 2763 nanosegundos
+Ha tardado 21236 nanosegundos en buscar en un linked implementando busqueda binaria.
+El tiempo mas bajo ha sido de 3553 nanosegundos
+Ha tardado 319 nanosegundos en vaciar un array.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 847 nanosegundos en vaciar un linked.
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 1103600 nanosegundos ordenar con burbuja un array ascendente ordenado
+El tiempo mas bajo ha sido de 762672 nanosegundos
+Ha tardado 797287 nanosegundos ordenar con selection un array ascendente ordenado
+El tiempo mas bajo ha sido de 462656 nanosegundos
+Ha tardado 45427 nanosegundos ordenar con insertion un array ascendente ordenado
+El tiempo mas bajo ha sido de 10658 nanosegundos
+Ha tardado 1161646 nanosegundos ordenar con quick un array ascendente ordenado
+El tiempo mas bajo ha sido de 621349 nanosegundos
+Ha tardado 1057 nanosegundos hacer una busqueda binaria en un array ascendente ordenado
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 625 nanosegundos hacer una busqueda secuencial en un array ascendente ordenado
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 1179293 nanosegundos ordenar con burbuja un array descendente ordenado
+El tiempo mas bajo ha sido de 738987 nanosegundos
+Ha tardado 647439 nanosegundos ordenar con selection un array descendente ordenado
+El tiempo mas bajo ha sido de 463840 nanosegundos
+Ha tardado 11654 nanosegundos ordenar con insertion un array descendente ordenado
+El tiempo mas bajo ha sido de 7500 nanosegundos
+Ha tardado 1139807 nanosegundos ordenar con quick un array descendente ordenado
+El tiempo mas bajo ha sido de 667536 nanosegundos
+Ha tardado 734 nanosegundos hacer una busqueda binaria en un array descendente ordenado
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 459 nanosegundos hacer una busqueda secuencial en un array descendente ordenado
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 3806576 nanosegundos ordenar con burbuja un array desordenado
+El tiempo mas bajo ha sido de 2838310 nanosegundos
+Ha tardado 946480 nanosegundos ordenar con selection un array desordenado
+El tiempo mas bajo ha sido de 746882 nanosegundos
+Ha tardado 8814 nanosegundos ordenar con insertion un array desordenado
+El tiempo mas bajo ha sido de 7895 nanosegundos
+Ha tardado 974248 nanosegundos ordenar con quick un array desordenado
+El tiempo mas bajo ha sido de 664378 nanosegundos
+Ha tardado 914 nanosegundos hacer una busqueda binaria en un array desordenado
+El tiempo mas bajo ha sido de 394 nanosegundos
+Ha tardado 6532 nanosegundos hacer una busqueda secuencial en un array desordenado
+El tiempo mas bajo ha sido de 789 nanosegundos
+Ha tardado 3510480 nanosegundos ordenar con burbuja un array con valores identicos
+El tiempo mas bajo ha sido de 2723830 nanosegundos
+Ha tardado 695285 nanosegundos ordenar con selection un array con valores identicos
+El tiempo mas bajo ha sido de 462656 nanosegundos
+Ha tardado 7156 nanosegundos ordenar con insertion un array con valores identicos
+El tiempo mas bajo ha sido de 5921 nanosegundos
+Ha tardado 886548 nanosegundos ordenar con quick un array con valores identicos
+El tiempo mas bajo ha sido de 549109 nanosegundos
+Ha tardado 286 nanosegundos hacer una busqueda binaria en un array con valores identicos
+El tiempo mas bajo ha sido de 0 nanosegundos
+Ha tardado 2325 nanosegundos hacer una busqueda secuencial en un array con valores identicos
+El tiempo mas bajo ha sido de 1973 nanosegundos
